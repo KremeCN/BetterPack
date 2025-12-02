@@ -7,7 +7,7 @@ if "%~1"=="" (
     exit /b 1
 )
 
-set JAR_PATH=build\libs\BetterPack-1.0.0.jar
+set JAR_PATH=build\libs\BetterPack-0.1.0.jar
 set CLASS_NAME=com.kremecn.geyser.extension.betterpack.util.PathFixer
 
 if not exist "%JAR_PATH%" (

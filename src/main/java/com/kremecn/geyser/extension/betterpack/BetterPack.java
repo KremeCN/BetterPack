@@ -41,7 +41,7 @@ public class BetterPack implements Extension {
                 "| |_) |  __/ |_| ||  __/ |  |  __/ (_| | (__|   < \n" +
                 "|____/ \\___|\\__|\\__\\___|_|  |_|   \\__,_|\\___|_|\\_\\\n" +
                 "                                                  \n" +
-                " BetterPack v1.0.0 by KremeCN\n");
+                " BetterPack v0.1.0 by KremeCN\n");
 
         LanguageManager.init();
         this.configManager = new ConfigManager(this.dataFolder());
