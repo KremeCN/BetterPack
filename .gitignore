@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Logs
+*.log
+*_log.txt
+*_log_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+tmp/
