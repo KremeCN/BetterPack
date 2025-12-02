@@ -1,0 +1,6 @@
+id: pack
+name: BetterPack
+main: com.kremecn.geyser.extension.betterpack.BetterPack
+api: 2.9.1
+version: 1.0.0
+authors: [KremeCN]
